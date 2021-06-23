@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.vscode
+
+
+frog-dataset
+images
+lightning_logs
+logs_old
+output
